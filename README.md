@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Christian
 
-<!--
-**christiansemke/christiansemke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚗 **Full Stack Engineer | Automotive Software & AI Integration**  
+I design, build, and optimize intelligent systems that connect automotive engineering with modern web technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+I'm a software engineer with a background in **mechanical and automotive engineering**.  
+I love bridging the gap between **embedded systems, AI, and full-stack development** — turning complex problems into elegant, scalable solutions.
+
+- 🎓 M.Sc. in Automotive Engineering and Mobile Systems | B.Sc. in Mechanical Engineering  
+- 💻 Experienced with **C++, React, NestJS, CAPL, CANoe, CarMaker, CANape**  
+- 🤖 Focused on **AI-driven automation**, **HiL systems**, and **intelligent web applications**
+
+---
+
+### ⚙️ Tech Stack
+**Languages:** C++, TypeScript, JavaScript, CAPL  
+**Frameworks:** React, NestJS, Node.js  
+**Tools:** Vector CANoe, CarMaker, CANape, Git, Docker  
+**Areas:** HiL, Test Automation, AI Integration, Web Applications  
+
+---
+
+### 🎹 Fun Fact
+When I’m not coding or working on automotive projects, you’ll probably find me:
+- Lifting at the gym  
+- Playing piano  
+- Drawing and sketching  
+- Trying out new recipes in the kitchen  
+
+---
+
+### 🌐 Connect with Me
+[LinkedIn](https://linkedin.com/in/christiansemke) • [Email](mailto:christian_semke@web.de)
+
+---
+
+⭐ *"Engineering meets code — building smart, reliable, and intelligent systems."*
